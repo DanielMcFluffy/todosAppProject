@@ -1,6 +1,6 @@
 # JSON Placeholder API Fetching
 
-A recap of the original api exercise in Module 1 provided by Sigma School.
+A demo of fetching API in Javascript
 
 ## Overview
 
@@ -12,6 +12,4 @@ I've then added a strikethrough function that persists across different visits o
 
 ![Alt text](assets/todosAPIcheck.png)
 
-## Credit
 
-Thank you to Sigma School for providing me the opportunity to career-switch into the tech field. Exercises/Lessons/Examples were provided by them. https://sigmaschool.co/
